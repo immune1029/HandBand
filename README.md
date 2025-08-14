@@ -70,7 +70,7 @@ _ _ _ _ _ _
 
 #### HandSignal(MarkerDetectionModule): 마커 좌표추출 모듈(ISP)
 ##### Module Overview
-- Marker Find</br>
+- Marker Find: 아주 단순화 시킨 그리드 투표 앙상블 알고리즘을 사용한다</br>
 <img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/b4844c6f-188f-439b-9355-c929b4097717" /></br>
 
 - Noise Filter<br/>
