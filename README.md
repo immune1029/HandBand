@@ -24,7 +24,7 @@
    - 좌표 추출 과정은 순수 하드웨어(FPGA) 로직으로 구성되어, 외부 CPU 개입 없이 고속으로 처리된다.
    - 모듈 소개
       - HandSignal     : 마커를 트래킹하는 모듈
-      - GRAPHIC_Display  : 그래픽 처리장치(GPU) 영상입력을 받아 출력하기까지의 블록이다., Basys3버전의 경우 단순 그리드 출력, Zybo버전의 경우 HDMI 출력을 위해 DRAM을 드라이브 하는 VDMA모듈 등이 이에 해당된다.
+      - GRAPHIC_Display  : 그래픽 처리장치(GPU) 영상입력을 받아 출력하기까지의 블록이다. Basys3버전의 경우 단순 그리드 출력, Zybo버전의 경우 HDMI 출력을 위해 DRAM을 드라이브 하는 VDMA모듈 등이 이에 해당된다.
       - SPI_PacketMaster: 데이터패킷통신을 제어하고 SPI를 통해 데이터를 송신하는 블록
 - VectorCalculator(ARM Cortex M)
    - FPGA(GPU)로부터 받은 10개의 좌표를 통해 9개의 순간벡터를 계산한다.
