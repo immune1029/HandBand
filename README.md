@@ -23,7 +23,7 @@
    - ROI(Region of Interest) 영역에서 조건에 부합하는 픽셀의 개수를 카운트하여, 깃발의 색상과 위치를 판별한다. 극한으로 단순화시킨 투표 앙상블 알고리즘이라 볼 수 있다.
    - HSV 변환이나 색상 분리 없이 RGB 조건만으로 픽셀을 분류하고, 각 영역에서의 개수를 비교함으로써 사용자의 동작을 인식한다. 좌표 추출 과정은 순수 하드웨어(FPGA) 로직으로 구성되어, 외부 CPU 개입 없이 고속으로 처리된다.
       - HandSignal     : 마커를 트래킹하는 모듈
-      - GRAPHIC_Display  : 그래픽 처리장치(GPU), Basys3버전의 경우 단순 그리드 출력, Zybo버전의 경우 HDMI 출력을 위해 DRAM을 드라이브 하는 VDMA모듈 등이 이에 해당된다.
+      - GRAPHIC_Display  : 그래픽 처리장치(GPU) 영상입력을 받아 출력하기까지의 블록이다., Basys3버전의 경우 단순 그리드 출력, Zybo버전의 경우 HDMI 출력을 위해 DRAM을 드라이브 하는 VDMA모듈 등이 이에 해당된다.
       - SPI_PacketMaster: 데이터패킷통신을 제어하고 SPI를 통해 데이터를 송신하는 블록
 - VectorCalculator(ARM Cortex M)
    - FPGA(GPU)로부터 받은 10개의 좌표를 통해 9개의 순간벡터를 계산한다.
