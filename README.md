@@ -111,7 +111,7 @@ _ _ _ _ _ _
       <td>STM32-f411</td>
    </tr>
    <tr>
-      <td><img src="./doc/HW/Basys3.png" width="300" height="150"/></td>
+      <td><img src="./doc/HW/Basys3.png" width="225" height="auto"/></td>
       <td><img src="./doc/HW/OV7670.png" width="auto" height="150"/></td>
       <td><img width="auto" height="150" alt="image" src="https://github.com/user-attachments/assets/76ecfd0b-8302-4b53-8a12-daac5c1c52ce" /></td>
    </tr>
@@ -124,7 +124,7 @@ _ _ _ _ _ _
       <td>STM32-f411</td>
    </tr>
    <tr>
-      <td><img width="auto" height="150" alt="image" src="https://github.com/user-attachments/assets/d938c9b5-5349-45be-b907-b56208477556" /></td>
+      <td><img width="225" height="auto" alt="image" src="https://github.com/user-attachments/assets/d938c9b5-5349-45be-b907-b56208477556" /></td>
       <td><img width="auto" height="150" alt="image" src="https://github.com/user-attachments/assets/7c36fa1f-74b3-4313-92e3-8139e1a23179" /></td>
       <td><img width="auto" height="150" alt="image" src="https://github.com/user-attachments/assets/76ecfd0b-8302-4b53-8a12-daac5c1c52ce" /></td>
    </tr>
