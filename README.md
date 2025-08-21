@@ -111,7 +111,7 @@ _ _ _ _ _ _
       <td>STM32-f411</td>
    </tr>
    <tr>
-      <td><img src="./doc/HW/Basys3.png" width="auto" height="150"/></td>
+      <td><img src="./doc/HW/Basys3.png" width="300" height="150"/></td>
       <td><img src="./doc/HW/OV7670.png" width="auto" height="150"/></td>
       <td><img width="auto" height="150" alt="image" src="https://github.com/user-attachments/assets/76ecfd0b-8302-4b53-8a12-daac5c1c52ce" /></td>
    </tr>
