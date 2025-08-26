@@ -8,7 +8,7 @@
 |박호윤                                          |임윤재                                            |임희주                                          |                                                                               
 | :--------------------------------------------: | :--------------------------------------------:     | :---------------------------------------:      |
 |   [@cong2738](https://github.com/cong2738)     |    [@immune1029](https://github.com/immune1029)      | [@Heeju99](https://github.com/Heeju99)|
-|SystenArchitecture Design And VectorCalculater Algorithm Develop |ControlSignal Design, Virtual Stage Develop|ArmCortex Communication And System Develop|
+|SystemArchitecture Design And VectorCalculater Algorithm Develop |ControlSignal Design, Virtual Stage Develop|ArmCortex Communication And System Develop|
 
 |김민서                                          |박지수                                            |함영은                                          |                                                                               
 | :--------------------------------------------: | :--------------------------------------------:     | :---------------------------------------:      |
